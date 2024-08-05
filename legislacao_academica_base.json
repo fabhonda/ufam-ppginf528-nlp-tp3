@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "pergunta": "Qual é a sede da Universidade do Amazonas?",
+        "resposta": "A sede da Universidade do Amazonas é na cidade de Manaus.",
+        "start_position": 0,
+        "end_position": 74
+    },
+    {
+        "id": 2,
+        "pergunta": "Em que data foi criada a Universidade do Amazonas?",
+        "resposta": "A Universidade do Amazonas foi criada em 12 de junho de 1962.",
+        "start_position": 75,
+        "end_position": 129
+    },
+    {
+        "id": 3,
+        "pergunta": "Qual decreto manteve a Universidade do Amazonas como entidade da administração indireta?",
+        "resposta": "O Decreto nº 53.699, de 13 de março de 1964, manteve a Universidade do Amazonas como entidade da administração indireta.",
+        "start_position": 130,
+        "end_position": 224
+    },
+    {
+        "id": 4,
+        "pergunta": "A Universidade do Amazonas goza de quais autonomias?",
+        "resposta": "A Universidade do Amazonas goza de autonomia didático-científica, administrativa e de gestão financeira e patrimonial.",
+        "start_position": 225,
+        "end_position": 342
+    },
+    {
+        "id": 5,
+        "pergunta": "Quais documentos legais regem a organização e o funcionamento da Universidade do Amazonas?",
+        "resposta": "A organização e o funcionamento da Universidade do Amazonas são regidos pelo Estatuto, o Regimento Geral e os regimentos das unidades acadêmicas.",
+        "start_position": 343,
+        "end_position": 487
+    },
+    {
+        "id": 6,
+        "pergunta": "Quais são as finalidades da Universidade do Amazonas?",
+        "resposta": "As finalidades da Universidade do Amazonas incluem cultivar o saber em todos os campos do conhecimento, estimular a criação cultural, formar diplomados aptos para a inserção em setores profissionais, promover a investigação científica e manter compromisso com os povos indígenas.",
+        "start_position": 488,
+        "end_position": 756
+    },
+    {
+        "id": 7,
+        "pergunta": "O que a Universidade do Amazonas deve estimular, segundo o Art. 4º?",
+        "resposta": "A Universidade do Amazonas deve estimular a criação cultural e o desenvolvimento do pensamento reflexivo, sem discriminação de qualquer natureza.",
+        "start_position": 757,
+        "end_position": 885
+    },
+    {
+        "id": 8,
+        "pergunta": "Como a Universidade do Amazonas colabora com a formação contínua dos diplomados?",
+        "resposta": "A Universidade do Amazonas colabora com a formação contínua dos diplomados, promovendo a investigação científica, melhorando o entendimento do ser humano sobre o meio em que vive e mantendo um compromisso com a realidade amazônica.",
+        "start_position": 886,
+        "end_position": 1123
+    },
+    {
+        "id": 9,
+        "pergunta": "Qual é o compromisso da Universidade do Amazonas com os povos indígenas?",
+        "resposta": "A Universidade do Amazonas mantém um compromisso com os povos indígenas, reconhecendo a dívida histórica da sociedade brasileira e construindo possibilidades concretas para sua inserção plena na vida universitária e no exercício da cidadania.",
+        "start_position": 1124,
+        "end_position": 1398
+    },
+    {
+        "id": 10,
+        "pergunta": "De que forma a Universidade do Amazonas promove a divulgação de conhecimentos culturais?",
+        "resposta": "A Universidade do Amazonas promove a divulgação de conhecimentos culturais através do ensino, de publicações ou de outras formas de comunicação.",
+        "start_position": 1399,
+        "end_position": 1530
+    },
+    {
+        "id": 11,
+        "pergunta": "Quais são os princípios organizacionais da Universidade do Amazonas?",
+        "resposta": "Os princípios organizacionais da Universidade do Amazonas incluem unidade de patrimônio e de administração, integração das funções de ensino, pesquisa e extensão, racionalidade e organização, publicidade de suas ações e gratuidade do ensino.",
+        "start_position": 1531,
+        "end_position": 1781
+    },
+    {
+        "id": 12,
+        "pergunta": "Quantas unidades acadêmicas constituem a Universidade do Amazonas?",
+        "resposta": "A Universidade do Amazonas constitui-se de dez unidades acadêmicas.",
+        "start_position": 1782,
+        "end_position": 1855
+    },
+    {
+        "id": 13,
+        "pergunta": "Quais são os institutos que fazem parte da Universidade do Amazonas?",
+        "resposta": "Os institutos que fazem parte da Universidade do Amazonas incluem o Instituto de Ciências Exatas, Instituto de Ciências Biológicas e Instituto de Ciências Humanas e Letras.",
+        "start_position": 1856,
+        "end_position": 2032
+    },
+    {
+        "id": 14,
+        "pergunta": "Quais são as faculdades que fazem parte da Universidade do Amazonas?",
+        "resposta": "As faculdades que fazem parte da Universidade do Amazonas incluem a Faculdade de Tecnologia, Faculdade de Estudos Sociais, Faculdade de Ciências da Saúde, Faculdade de Educação, Faculdade de Ciências Agrárias, Faculdade de Direito e Faculdade de Educação Física.",
+        "start_position": 2033,
+        "end_position": 2313
+    },
+    {
+        "id": 15,
+        "pergunta": "Quantos departamentos são necessários para a instalação de uma nova faculdade ou instituto?",
+        "resposta": "Para a instalação de uma nova faculdade ou instituto, é necessária a existência de três departamentos.",
+        "start_position": 2314,
+        "end_position": 2430
+    },
+    {
+        "id": 16,
+        "pergunta": "Quais requisitos devem ser atendidos na criação de departamentos na Universidade do Amazonas?",
+        "resposta": "Os requisitos para a criação de departamentos incluem agrupamento de disciplinas afins, disponibilidade de instalações e equipamentos, e número de professores não inferior a oito.",
+        "start_position": 2431,
+        "end_position": 2626
+    },
+    {
+        "id": 17,
+        "pergunta": "Quais são os órgãos suplementares da Universidade do Amazonas?",
+        "resposta": "Os órgãos suplementares da Universidade do Amazonas incluem o Sistema de Bibliotecas, Centro de Processamento de Dados, Centro de Artes, Hospital Universitário, Centro de Ciências do Ambiente, Imprensa Universitária, Fazenda Experimental, Biotério Central, Prefeitura do Campus Universitário, Centro de Apoio Multidisciplinar e Museu Amazônico.",
+        "start_position": 2627,
+        "end_position": 3060
+    },
+    {
+        "id": 18,
+        "pergunta": "O que é necessário para a criação de novos órgãos suplementares na Universidade do Amazonas?",
+        "resposta": "A criação de novos órgãos suplementares na Universidade do Amazonas é de competência do Conselho Universitário.",
+        "start_position": 3061,
+        "end_position": 3190
+    },
+    {
+        "id": 19,
+        "pergunta": "Como a administração da Universidade do Amazonas é organizada?",
+        "resposta": "A administração da Universidade do Amazonas é organizada em nível superior e em nível das unidades acadêmicas, através dos respectivos órgãos deliberativos e executivos.",
+        "start_position": 3191,
+        "end_position": 3388
+    },
+    {
+        "id": 20,
+        "pergunta": "Quais são os órgãos que exercem a administração superior da Universidade do Amazonas?",
+        "resposta": "Os órgãos que exercem a administração superior da Universidade do Amazonas incluem o Conselho Universitário (CONSUNI), o Conselho de Administração (CONSAD), o Conselho de Ensino, Pesquisa e Extensão (CONSEPE) e as câmaras setoriais.",
+        "start_position": 3389,
+        "end_position": 3621
+    },
+    {
+        "id": 21,
+        "pergunta": "Quem compõe o Conselho Universitário da Universidade do Amazonas?",
+        "resposta": "O Conselho Universitário da Universidade do Amazonas é composto pelo Reitor, Vice-Reitor, Diretores das unidades acadêmicas, 16 representantes do corpo docente, 5 representantes do corpo discente, 5 representantes do corpo técnico-administrativo e 2 representantes da comunidade local ou regional.",
+        "start_position": 3622,
+        "end_position": 3967
+    },
+    {
+        "id": 22,
+        "pergunta": "Qual é a competência do Conselho Universitário da Universidade do Amazonas?",
+        "resposta": "A competência do Conselho Universitário da Universidade do Amazonas inclui reformar o Estatuto, elaborar e reformar o Regimento Geral e o Regimento da Reitoria, homologar a lista tríplice para escolha do Reitor e do Vice-Reitor, apreciar recursos, deliberar sobre concessão de títulos honoríficos, dirimir dúvidas e conflitos de competência, decidir sobre intervenção em unidades acadêmicas, promover apuração de responsabilidade, deliberar sobre suspensão de funcionamento da Universidade, entre outras.",
+        "start_position": 3968,
+        "end_position": 4561
+    },
+    {
+        "id": 23,
+        "pergunta": "Quantos membros têm mandato de 1 ano no Conselho Universitário da Universidade do Amazonas?",
+        "resposta": "No Conselho Universitário da Universidade do Amazonas, 28 membros têm mandato de 1 ano, incluindo 16 representantes do corpo docente, 5 representantes do corpo discente, 5 representantes do corpo técnico-administrativo e 2 representantes da comunidade local ou regional.",
+        "start_position": 4562,
+        "end_position": 4925
+    },
+    {
+        "id": 24,
+        "pergunta": "Com que frequência o Conselho Universitário da Universidade do Amazonas se reúne ordinariamente?",
+        "resposta": "O Conselho Universitário da Universidade do Amazonas se reúne ordinariamente uma vez por mês.",
+        "start_position": 4926,
+        "end_position": 5020
+    },
+    {
+        "id": 25,
+        "pergunta": "Quem constitui o Conselho de Administração da Universidade do Amazonas?",
+        "resposta": "O Conselho de Administração da Universidade do Amazonas é constituído pelo Reitor, Pró-Reitores de Administração, de Planejamento e de Assuntos da Comunidade Universitária, Diretores de unidades acadêmicas, 3 representantes dos servidores técnico-administrativos, 2 representantes discentes e 1 representante da comunidade local ou regional.",
+        "start_position": 5021,
+        "end_position": 5411
+    },
+    {
+        "id": 26,
+        "pergunta": "Quais são as competências do Conselho de Administração da Universidade do Amazonas?",
+        "resposta": "As competências do Conselho de Administração da Universidade do Amazonas incluem conhecer de recursos interpostos de atos dos diretores das unidades acadêmicas e dos conselhos departamentais, homologar tabelas de valores a serem cobrados pela Universidade, deliberar sobre atos do Reitor, criação, modificação e extinção de órgãos administrativos, normas sobre admissão e aperfeiçoamento de pessoal técnico-administrativo, aprovar regimentos das unidades acadêmicas, órgãos suplementares e campi avançados, aprovar orçamentos anuais e plurianuais, autorizar operações de crédito ou financiamento, entre outras.",
+        "start_position": 5412,
+        "end_position": 6143
+    },
+    {
+        "id": 27,
+        "pergunta": "Quem compõe o Conselho de Ensino, Pesquisa e Extensão da Universidade do Amazonas?",
+        "resposta": "O Conselho de Ensino, Pesquisa e Extensão da Universidade do Amazonas é composto pelo Reitor, Pró-Reitores de Ensino de Graduação, de Pesquisa e Pós-Graduação e de Extensão, Diretores de unidades acadêmicas, 3 representantes do corpo discente, 2 representantes do corpo técnico-administrativo e 1 representante da comunidade local ou regional.",
+        "start_position": 6144,
+        "end_position": 6514
+    },
+    {
+        "id": 28,
+        "pergunta": "Quais são as competências do Conselho de Ensino, Pesquisa e Extensão da Universidade do Amazonas?",
+        "resposta": "As competências do Conselho de Ensino, Pesquisa e Extensão da Universidade do Amazonas incluem superintender e coordenar as atividades universitárias de ensino, pesquisa e extensão, fixar normas complementares ao Regimento Geral, decidir sobre criação, expansão, modificação e extinção de cursos, ampliação e diminuição de vagas, programação de cursos, pesquisas e atividades de extensão, contratação e dispensa de professores, planos de carreira docente, atribuições das funções do pessoal docente, atividades de supervisão e fiscalização, medidas corretivas ou punitivas, entre outras.",
+        "start_position": 6515,
+        "end_position": 7210
+    },
+    {
+        "id": 29,
+        "pergunta": "Quais são os órgãos da administração das Unidades Acadêmicas da Universidade do Amazonas?",
+        "resposta": "Os órgãos da administração das Unidades Acadêmicas da Universidade do Amazonas são o Conselho Departamental, a Diretoria e os Departamentos.",
+        "start_position": 7211,
+        "end_position": 7394
+    },
+    {
+        "id": 30,
+        "pergunta": "Quem compõe o Conselho Departamental das Unidades Acadêmicas da Universidade do Amazonas?",
+        "resposta": "O Conselho Departamental das Unidades Acadêmicas da Universidade do Amazonas é composto pelo Diretor, Vice-Diretor, Chefes dos departamentos acadêmicos, 1 representante docente de cada departamento acadêmico, representantes discentes e técnico-administrativos da respectiva Unidade Acadêmica.",
+        "start_position": 7395,
+        "end_position": 7771
+    },
+    {
+        "id": 31,
+        "pergunta": "Qual é a função da Diretoria das Unidades Acadêmicas da Universidade do Amazonas?",
+        "resposta": "A Diretoria das Unidades Acadêmicas da Universidade do Amazonas é o órgão executivo destinado a coordenar, fiscalizar e superintender as atividades da Unidade Acadêmica.",
+        "start_position": 7772,
+        "end_position": 7916
+    },
+    {
+        "id": 32,
+        "pergunta": "Como são providos os cargos de Diretor e Vice-Diretor de unidade acadêmica na Universidade do Amazonas?",
+        "resposta": "Os cargos de Diretor e Vice-Diretor de unidade acadêmica na Universidade do Amazonas são providos pela forma prevista na Lei nº 9.192, de 21 de dezembro de 1995, regulamentada pelo Decreto nº 1.916, de 23 de maio de 1996.",
+        "start_position": 7917,
+        "end_position": 8184
+    },
+    {
+        "id": 33,
+        "pergunta": "O que acontece na falta ou impedimento do Diretor e Vice-Diretor de uma unidade acadêmica na Universidade do Amazonas?",
+        "resposta": "Nas faltas ou impedimentos do Diretor e Vice-Diretor de uma unidade acadêmica na Universidade do Amazonas, a Diretoria será exercida pelo membro do Conselho Departamental mais antigo no magistério da Universidade.",
+        "start_position": 8185,
+        "end_position": 8445
+    },
+    {
+        "id": 34,
+        "pergunta": "Como é organizada a coordenação didática de cada curso de graduação e pós-graduação na Universidade do Amazonas?",
+        "resposta": "A coordenação didática de cada curso de graduação e pós-graduação na Universidade do Amazonas é organizada por um Colegiado de Curso, cuja organização e atribuições são objeto do Regimento Geral.",
+        "start_position": 8446,
+        "end_position": 8743
+    },
+    {
+        "id": 35,
+        "pergunta": "Quais são as modalidades de cursos que a Universidade do Amazonas pode ministrar?",
+        "resposta": "A Universidade do Amazonas pode ministrar cursos sequenciais, de graduação, de pós-graduação e de extensão.",
+        "start_position": 8744,
+        "end_position": 8918
+    },
+    {
+        "id": 36,
+        "pergunta": "O que os cursos de graduação na Universidade do Amazonas habilitam?",
+        "resposta": "Os cursos de graduação na Universidade do Amazonas habilitam ao exercício profissional na área de estudos abrangida pelo respectivo currículo.",
+        "start_position": 8919,
+        "end_position": 9052
+    },
+    {
+        "id": 37,
+        "pergunta": "Qual é o objetivo dos cursos de pós-graduação na Universidade do Amazonas?",
+        "resposta": "Os cursos de pós-graduação na Universidade do Amazonas têm por fim desenvolver e aprofundar os estudos feitos ao nível de graduação, conduzindo aos graus de mestre e doutor.",
+        "start_position": 9053,
+        "end_position": 9257
+    },
+    {
+        "id": 38,
+        "pergunta": "Qual é o objetivo do mestrado na Universidade do Amazonas?",
+        "resposta": "O mestrado na Universidade do Amazonas objetiva enriquecer o cabedal científico e profissional dos graduados, podendo ser encarado como fase preliminar do doutorado.",
+        "start_position": 9258,
+        "end_position": 9426
+    },
+    {
+        "id": 39,
+        "pergunta": "Qual é o objetivo do doutorado na Universidade do Amazonas?",
+        "resposta": "O doutorado na Universidade do Amazonas proporciona formação científica e cultural ampla e aprofundada, desenvolvendo a capacidade de pesquisa e o poder criador nos diferentes ramos do saber.",
+        "start_position": 9427,
+        "end_position": 9640
+    },
+    {
+        "id": 40,
+        "pergunta": "Qual é o objetivo dos cursos de especialização e aperfeiçoamento na Universidade do Amazonas?",
+        "resposta": "Os cursos de especialização e aperfeiçoamento na Universidade do Amazonas destinam-se a graduados de cursos superiores, tendo os primeiros por objetivo preparar especialistas em setores restritos de estudos, e os últimos atualizar e melhorar conhecimentos e técnicas de trabalho.",
+        "start_position": 9641,
+        "end_position": 9987
+    },
+    {
+        "id": 41,
+        "pergunta": "Qual é o objetivo dos cursos de extensão na Universidade do Amazonas?",
+        "resposta": "Os cursos de extensão na Universidade do Amazonas visam a difundir conhecimentos e técnicas de trabalho para elevar a eficiência e os padrões culturais da comunidade.",
+        "start_position": 9988,
+        "end_position": 10154
+    },
+    {
+        "id": 42,
+        "pergunta": "A Universidade do Amazonas aceita transferência de alunos regulares?",
+        "resposta": "Sim, a Universidade do Amazonas aceita transferência de alunos regulares, para cursos afins, na hipótese de existência de vagas e mediante processo seletivo.",
+        "start_position": 10155,
+        "end_position": 10332
+    },
+    {
+        "id": 43,
+        "pergunta": "Qual é a duração mínima do ano letivo regular na Universidade do Amazonas?",
+        "resposta": "O ano letivo regular na Universidade do Amazonas tem a duração mínima de 200 dias de trabalho acadêmico efetivo, excluído o tempo reservado aos exames finais, quando houver.",
+        "start_position": 10333,
+        "end_position": 10513
+    },
+    {
+        "id": 44,
+        "pergunta": "É obrigatória a frequência de alunos e professores na Universidade do Amazonas?",
+        "resposta": "Sim, é obrigatória a frequência de alunos e professores na Universidade do Amazonas, salvo nos programas de educação a distância.",
+        "start_position": 10514,
+        "end_position": 10633
+    },
+    {
+        "id": 45,
+        "pergunta": "Como a Universidade do Amazonas oferece cursos de graduação no período noturno?",
+        "resposta": "A Universidade do Amazonas oferece cursos de graduação no período noturno nos mesmos padrões de qualidade mantidos no período diurno, garantida a necessária cobertura orçamentária.",
+        "start_position": 10634,
+        "end_position": 10806
+    },
+    {
+        "id": 46,
+        "pergunta": "Qual é o objetivo da pesquisa na Universidade do Amazonas?",
+        "resposta": "A pesquisa na Universidade do Amazonas tem por objetivo fundamental produzir e difundir conhecimentos científicos, tecnológicos, artísticos e culturais e desenvolver sua crítica, associando-se ao ensino e à extensão.",
+        "start_position": 10807,
+        "end_position": 11022
+    },
+    {
+        "id": 47,
+        "pergunta": "Como a Universidade do Amazonas interioriza as atividades de pesquisa?",
+        "resposta": "A Universidade do Amazonas empreenderá esforços no sentido de interiorizar as atividades de pesquisa com a finalidade de obter maior conhecimento da realidade amazônica.",
+        "start_position": 11023,
+        "end_position": 11179
+    },
+    {
+        "id": 48,
+        "pergunta": "Qual é o objetivo da extensão na Universidade do Amazonas?",
+        "resposta": "A extensão na Universidade do Amazonas tem por objetivo desenvolver um processo educativo, cultural e científico, em articulação e com a participação da comunidade externa, para assegurar relações transformadoras entre a Universidade e a sociedade.",
+        "start_position": 11180,
+        "end_position": 11408
+    },
+    {
+        "id": 49,
+        "pergunta": "Como a extensão na Universidade do Amazonas é organizada?",
+        "resposta": "A extensão na Universidade do Amazonas é organizada e funcionará obedecendo aos dispositivos estatutários e regimentais e às normas baixadas pelo CONSEPE.",
+        "start_position": 11409,
+        "end_position": 11573
+    },
+    {
+        "id": 50,
+        "pergunta": "Como é constituída a Comunidade Universitária da Universidade do Amazonas?",
+        "resposta": "A Comunidade Universitária da Universidade do Amazonas é constituída pelos corpos docente, técnico-administrativo e técnico-marítimo, ativos e inativos, bem como pelos discentes, todos diversificados em suas atribuições e unificados em seus objetivos.",
+        "start_position": 11574,
+        "end_position": 11814
+    },
+    {
+        "id": 51,
+        "pergunta": "Qual é o papel do Congresso Universitário na Universidade do Amazonas?",
+        "resposta": "Anualmente, a Comunidade Universitária reunir-se-á em Congresso Universitário para realizar a avaliação geral da instituição, cujas conclusões devem ser apreciadas pelos órgãos deliberativos e executivos da Universidade.",
+        "start_position": 11815,
+        "end_position": 12015
+    },
+    {
+        "id": 52,
+        "pergunta": "Como é estabelecido o regime disciplinar dos membros da Comunidade Universitária da Universidade do Amazonas?",
+        "resposta": "O regime disciplinar dos membros da Comunidade Universitária da Universidade do Amazonas será estabelecido no Regimento Geral, com base na legislação pertinente.",
+        "start_position": 12016,
+        "end_position": 12179
+    },
+    {
+        "id": 53,
+        "pergunta": "Quem forma o corpo docente da Universidade do Amazonas?",
+        "resposta": "O corpo docente da Universidade do Amazonas é formado pelos integrantes da carreira do magistério e demais professores admitidos na forma da lei, inclusive os visitantes.",
+        "start_position": 12180,
+        "end_position": 12359
+    },
+    {
+        "id": 54,
+        "pergunta": "Quem constitui o corpo discente da Universidade do Amazonas?",
+        "resposta": "O corpo discente da Universidade do Amazonas é constituído de alunos regulares, especiais e avulsos.",
+        "start_position": 12360,
+        "end_position": 12450
+    },
+    {
+        "id": 55,
+        "pergunta": "Quem são os alunos regulares da Universidade do Amazonas?",
+        "resposta": "São alunos regulares da Universidade do Amazonas os matriculados em cursos de graduação ou pós-graduação, assim como em cursos seqüenciais, observados os requisitos indispensáveis à obtenção dos respectivos diplomas.",
+        "start_position": 12451,
+        "end_position": 12657
+    },
+    {
+        "id": 56,
+        "pergunta": "Quem são os alunos especiais da Universidade do Amazonas?",
+        "resposta": "São alunos especiais da Universidade do Amazonas os graduados matriculados em cursos de extensão ou em disciplinas isoladas de cursos de graduação ou pós-graduação, na forma da respectiva regulamentação.",
+        "start_position": 12658,
+        "end_position": 12837
+    },
+    {
+        "id": 57,
+        "pergunta": "Quem são os alunos avulsos da Universidade do Amazonas?",
+        "resposta": "São alunos avulsos da Universidade do Amazonas aqueles que, matriculados em curso de graduação em outra instituição de ensino superior, cursam disciplinas isoladas na Universidade, com anuência daquela instituição.",
+        "start_position": 12838,
+        "end_position": 13033
+    },
+    {
+        "id": 58,
+        "pergunta": "Como são regulamentados os aspectos da relação aluno/universidade na Universidade do Amazonas?",
+        "resposta": "Os aspectos da relação aluno/universidade na Universidade do Amazonas são regulamentados pelo Regimento Geral e pelas normas baixadas pelos colegiados competentes, observada a legislação pertinente.",
+        "start_position": 13034,
+        "end_position": 13230
+    },
+    {
+        "id": 59,
+        "pergunta": "Quem constitui o corpo técnico-administrativo da Universidade do Amazonas?",
+        "resposta": "O corpo técnico-administrativo da Universidade do Amazonas é constituído pelos servidores da Universidade que exerçam atividades de apoio técnico, administrativo e operacional necessárias à consecução dos objetivos institucionais.",
+        "start_position": 13231,
+        "end_position": 13468
+    },
+    {
+        "id": 60,
+        "pergunta": "Quais são os diplomas conferidos pela Universidade do Amazonas?",
+        "resposta": "A Universidade do Amazonas confere diplomas aos alunos regulares que venham a concluir cursos de graduação, cursos seqüenciais, cursos de extensão e de pós-graduação, com observância dos requisitos legais.",
+        "start_position": 13469,
+        "end_position": 13672
+    },
+    {
+        "id": 61,
+        "pergunta": "Quais certificados são expedidos pela Universidade do Amazonas?",
+        "resposta": "A Universidade do Amazonas expede certificados aos alunos que venham a concluir cursos de especialização, aperfeiçoamento, extensão e outras modalidades permitidas em Lei, bem como o estudo de disciplinas isoladas.",
+        "start_position": 13673,
+        "end_position": 13890
+    },
+    {
+        "id": 62,
+        "pergunta": "Os diplomas de cursos superiores expedidos pela Universidade do Amazonas têm validade nacional?",
+        "resposta": "Sim, os diplomas de cursos superiores reconhecidos, expedidos pela Universidade do Amazonas, são por ela própria registrados e têm validade nacional.",
+        "start_position": 13891,
+        "end_position": 14079
+    },
+    {
+        "id": 63,
+        "pergunta": "Os diplomas de graduação expedidos por universidades estrangeiras podem ser revalidados pela Universidade do Amazonas?",
+        "resposta": "Sim, os diplomas de graduação expedidos por universidades estrangeiras podem ser revalidados pela Universidade do Amazonas, desde que esta mantenha curso do mesmo nível e área ou equivalente, respeitando-se os acordos internacionais de reciprocidade ou equiparação.",
+        "start_position": 14080,
+        "end_position": 14318
+    },
+    {
+        "id": 64,
+        "pergunta": "Os diplomas de mestrado e doutorado expedidos por universidades estrangeiras podem ser reconhecidos pela Universidade do Amazonas?",
+        "resposta": "Sim, os diplomas de mestrado e doutorado expedidos por universidades estrangeiras podem ser reconhecidos pela Universidade do Amazonas, desde que esta possua cursos de pós-graduação reconhecidos e avaliados, na mesma área de conhecimento e em nível equivalente ou superior.",
+        "start_position": 14319,
+        "end_position": 14564
+    },
+    {
+        "id": 65,
+        "pergunta": "Quais são os recursos da Universidade do Amazonas?",
+        "resposta": "São recursos da Universidade do Amazonas aqueles originários do Tesouro Nacional, as transferências que lhe forem destinadas pelo Estado e Municípios, os auxílios e subvenções de entidades públicas e particulares, nacionais e estrangeiras, os resultados de convênios, contratos e acordos, os saldos de exercícios anteriores, as receitas de prestação de serviços e outras rendas eventuais.",
+        "start_position": 14565,
+        "end_position": 14957
+    },
+    {
+        "id": 66,
+        "pergunta": "Como se processa a administração financeira da Universidade do Amazonas?",
+        "resposta": "A administração financeira da Universidade do Amazonas se processa nos termos da legislação específica e em conformidade com o Plano de Desenvolvimento Institucional e as políticas de ensino, pesquisa, extensão e de administração, conforme aprovadas pelos Conselhos Superiores.",
+        "start_position": 14958,
+        "end_position": 15262
+    },
+    {
+        "id": 67,
+        "pergunta": "Como são elaborados os orçamentos da Universidade do Amazonas?",
+        "resposta": "Os orçamentos da Universidade do Amazonas são elaborados pela Reitoria, conforme orientações estabelecidas pelo Conselho Universitário, mediante propostas das unidades acadêmicas e demais órgãos, integrando-se em plano unificado a ser submetido à aprovação do Conselho de Administração.",
+        "start_position": 15263,
+        "end_position": 15557
+    },
+    {
+        "id": 68,
+        "pergunta": "Quem fixa os critérios para a distribuição dos recursos orçamentários na Universidade do Amazonas?",
+        "resposta": "Os critérios para a distribuição dos recursos orçamentários na Universidade do Amazonas são fixados pelo Conselho de Administração, ouvidos os demais Conselhos Superiores.",
+        "start_position": 15558,
+        "end_position": 15727
+    },
+    {
+        "id": 69,
+        "pergunta": "Como se processa a administração do patrimônio da Universidade do Amazonas?",
+        "resposta": "A administração do patrimônio da Universidade do Amazonas se processa de acordo com a legislação específica, e seus bens são utilizados ou aplicados exclusivamente para a consecução de seus objetivos, permitida a locação e o arrendamento, desde que haja autorização do Conselho de Administração.",
+        "start_position": 15728,
+        "end_position": 16039
+    },
+    {
+        "id": 70,
+        "pergunta": "Qual é o regime jurídico de contratação de obras, serviços, compras e alienações da Universidade do Amazonas?",
+        "resposta": "A execução de obras, a prestação de serviços, a compra e alienação de bens pela Universidade do Amazonas, bem como a realização de outras despesas, sujeitam-se ao regime jurídico estabelecido em Lei.",
+        "start_position": 16040,
+        "end_position": 16239
+    },
+    {
+        "id": 71,
+        "pergunta": "O que acontece com os bens da Universidade do Amazonas que se tornarem inservíveis ou cuja alienação for conveniente?",
+        "resposta": "Os bens da Universidade do Amazonas que se tornarem inservíveis ou cuja alienação for conveniente, serão vendidos em hasta pública, conforme o Regulamento Geral de Bens.",
+        "start_position": 16240,
+        "end_position": 16410
+    },
+    {
+        "id": 72,
+        "pergunta": "Como pode a Universidade do Amazonas obter recursos financeiros além daqueles provenientes do Tesouro Nacional?",
+        "resposta": "A Universidade do Amazonas poderá obter recursos financeiros mediante celebração de contratos, convênios, acordos e outros ajustes com instituições públicas e privadas, nacionais e internacionais, para realização de programas de ensino, pesquisa e extensão.",
+        "start_position": 16411,
+        "end_position": 16715
+    },
+    {
+        "id": 73,
+        "pergunta": "A quem a Universidade do Amazonas prestará contas?",
+        "resposta": "A Universidade do Amazonas prestará contas anualmente ao Tribunal de Contas da União e, no que couber, ao Conselho Estadual de Educação e ao Conselho Nacional de Educação, na forma estabelecida pela legislação pertinente.",
+        "start_position": 16716,
+        "end_position": 16954
+    },
+    {
+        "id": 74,
+        "pergunta": "Qual é a finalidade dos convênios, contratos, acordos e outros ajustes celebrados pela Universidade do Amazonas?",
+        "resposta": "Os convênios, contratos, acordos e outros ajustes celebrados pela Universidade do Amazonas visam à realização de programas de ensino, pesquisa e extensão, bem como à cooperação técnico-científica, cultural e administrativa.",
+        "start_position": 16955,
+        "end_position": 17220
+    },
+    {
+        "id": 75,
+        "pergunta": "Como a Universidade do Amazonas pode dispor de recursos próprios?",
+        "resposta": "A Universidade do Amazonas pode dispor de recursos próprios provenientes de receitas operacionais, de bens móveis e imóveis, de prestação de serviços e de outras fontes permitidas em Lei.",
+        "start_position": 17221,
+        "end_position": 17423
+    },
+    {
+        "id": 76,
+        "pergunta": "A quem compete a gestão dos recursos próprios da Universidade do Amazonas?",
+        "resposta": "A gestão dos recursos próprios da Universidade do Amazonas compete ao Conselho de Administração, que poderá delegar atribuições a outros órgãos ou unidades da Universidade.",
+        "start_position": 17424,
+        "end_position": 17620
+    },
+    {
+        "id": 77,
+        "pergunta": "Como é organizada a administração orçamentária e financeira da Universidade do Amazonas?",
+        "resposta": "A administração orçamentária e financeira da Universidade do Amazonas é organizada de acordo com as normas estabelecidas pelo Conselho Universitário e pelo Conselho de Administração, em conformidade com a legislação pertinente.",
+        "start_position": 17621,
+        "end_position": 17868
+    },
+    {
+        "id": 78,
+        "pergunta": "Quem é responsável pela administração financeira da Universidade do Amazonas?",
+        "resposta": "A administração financeira da Universidade do Amazonas é de responsabilidade do Reitor, auxiliado pelos Pró-Reitores e demais órgãos competentes.",
+        "start_position": 17869,
+        "end_position": 18034
+    },
+    {
+        "id": 79,
+        "pergunta": "Como a Universidade do Amazonas pode realizar operações de crédito ou financiamento?",
+        "resposta": "A Universidade do Amazonas pode realizar operações de crédito ou financiamento mediante autorização do Conselho de Administração, observada a legislação pertinente.",
+        "start_position": 18035,
+        "end_position": 18242
+    },
+    {
+        "id": 80,
+        "pergunta": "Qual é o procedimento para a realização de convênios e contratos pela Universidade do Amazonas?",
+        "resposta": "Os convênios e contratos a serem celebrados pela Universidade do Amazonas deverão ser previamente aprovados pelo Conselho de Administração e obedecerão às normas específicas estabelecidas pela Universidade.",
+        "start_position": 18243,
+        "end_position": 18471
+    },
+    {
+        "id": 81,
+        "pergunta": "A Universidade do Amazonas pode receber doações e legados?",
+        "resposta": "Sim, a Universidade do Amazonas pode receber doações e legados de entidades públicas ou privadas, nacionais ou estrangeiras, observadas as disposições legais pertinentes.",
+        "start_position": 18472,
+        "end_position": 18653
+    },
+    {
+        "id": 82,
+        "pergunta": "Qual é o papel da Pró-Reitoria de Planejamento na Universidade do Amazonas?",
+        "resposta": "A Pró-Reitoria de Planejamento na Universidade do Amazonas tem por função planejar, coordenar e supervisionar as atividades de planejamento, orçamento e administração financeira da Universidade.",
+        "start_position": 18654,
+        "end_position": 18865
+    },
+    {
+        "id": 83,
+        "pergunta": "Qual é o papel da Pró-Reitoria de Administração na Universidade do Amazonas?",
+        "resposta": "A Pró-Reitoria de Administração na Universidade do Amazonas tem por função coordenar e supervisionar as atividades de administração geral, recursos humanos, materiais e patrimoniais da Universidade.",
+        "start_position": 18866,
+        "end_position": 19059
+    },
+    {
+        "id": 84,
+        "pergunta": "Qual é o papel da Pró-Reitoria de Ensino na Universidade do Amazonas?",
+        "resposta": "A Pró-Reitoria de Ensino na Universidade do Amazonas tem por função coordenar e supervisionar as atividades de ensino de graduação e pós-graduação, bem como de educação a distância.",
+        "start_position": 19060,
+        "end_position": 19229
+    },
+    {
+        "id": 85,
+        "pergunta": "Qual é o papel da Pró-Reitoria de Pesquisa e Pós-Graduação na Universidade do Amazonas?",
+        "resposta": "A Pró-Reitoria de Pesquisa e Pós-Graduação na Universidade do Amazonas tem por função coordenar e supervisionar as atividades de pesquisa científica, tecnológica e de inovação, bem como os programas de pós-graduação stricto sensu.",
+        "start_position": 19230,
+        "end_position": 19461
+    },
+    {
+        "id": 86,
+        "pergunta": "Qual é o papel da Pró-Reitoria de Extensão na Universidade do Amazonas?",
+        "resposta": "A Pró-Reitoria de Extensão na Universidade do Amazonas tem por função coordenar e supervisionar as atividades de extensão universitária, promovendo a integração entre a Universidade e a sociedade.",
+        "start_position": 19462,
+        "end_position": 19653
+    },
+    {
+        "id": 87,
+        "pergunta": "Qual é o papel da Pró-Reitoria de Assuntos da Comunidade Universitária na Universidade do Amazonas?",
+        "resposta": "A Pró-Reitoria de Assuntos da Comunidade Universitária na Universidade do Amazonas tem por função coordenar e supervisionar as atividades de assistência estudantil, cultura e lazer, saúde e qualidade de vida dos membros da comunidade universitária.",
+        "start_position": 19654,
+        "end_position": 19898
+    },
+    {
+        "id": 88,
+        "pergunta": "Quem aprova o Regimento Geral da Universidade do Amazonas?",
+        "resposta": "O Regimento Geral da Universidade do Amazonas é aprovado pelo Conselho Universitário, com base nas disposições do Estatuto.",
+        "start_position": 19899,
+        "end_position": 20021
+    },
+    {
+        "id": 89,
+        "pergunta": "Quem aprova os regimentos das unidades acadêmicas da Universidade do Amazonas?",
+        "resposta": "Os regimentos das unidades acadêmicas da Universidade do Amazonas são aprovados pelo Conselho Universitário, após parecer do Conselho de Ensino, Pesquisa e Extensão.",
+        "start_position": 20022,
+        "end_position": 20235
+    },
+    {
+        "id": 90,
+        "pergunta": "Como são estabelecidas as normas complementares ao Regimento Geral da Universidade do Amazonas?",
+        "resposta": "As normas complementares ao Regimento Geral da Universidade do Amazonas são estabelecidas pelo Conselho Universitário, ouvidos os demais Conselhos Superiores, e têm a finalidade de regulamentar as atividades acadêmicas e administrativas da Universidade.",
+        "start_position": 20236,
+        "end_position": 20511
+    },
+    {
+        "id": 91,
+        "pergunta": "Qual é a função do Conselho de Curadores da Universidade do Amazonas?",
+        "resposta": "O Conselho de Curadores da Universidade do Amazonas é o órgão responsável pelo acompanhamento e fiscalização econômico-financeira da Universidade, competindo-lhe emitir pareceres sobre a prestação anual de contas e sobre a alienação ou oneração de bens imóveis.",
+        "start_position": 20512,
+        "end_position": 20808
+    },
+    {
+        "id": 92,
+        "pergunta": "Quem compõe o Conselho de Curadores da Universidade do Amazonas?",
+        "resposta": "O Conselho de Curadores da Universidade do Amazonas é composto por 7 membros titulares e respectivos suplentes, nomeados pelo Reitor, sendo 3 representantes do Conselho Universitário, 3 representantes da comunidade local ou regional e 1 representante dos servidores técnico-administrativos.",
+        "start_position": 20809,
+        "end_position": 21167
+    },
+    {
+        "id": 93,
+        "pergunta": "Quem aprova a prestação anual de contas da Universidade do Amazonas?",
+        "resposta": "A prestação anual de contas da Universidade do Amazonas é aprovada pelo Conselho Universitário, após parecer do Conselho de Curadores.",
+        "start_position": 21168,
+        "end_position": 21327
+    },
+    {
+        "id": 94,
+        "pergunta": "Quem aprova a alienação ou oneração de bens imóveis da Universidade do Amazonas?",
+        "resposta": "A alienação ou oneração de bens imóveis da Universidade do Amazonas é aprovada pelo Conselho Universitário, após parecer do Conselho de Curadores.",
+        "start_position": 21328,
+        "end_position": 21488
+    },
+    {
+        "id": 95,
+        "pergunta": "Quem é o órgão máximo de deliberação e consulta da Universidade do Amazonas?",
+        "resposta": "O órgão máximo de deliberação e consulta da Universidade do Amazonas é o Conselho Universitário (CONSUNI).",
+        "start_position": 21489,
+        "end_position": 21610
+    },
+    {
+        "id": 96,
+        "pergunta": "Qual é a função do Conselho Universitário da Universidade do Amazonas?",
+        "resposta": "O Conselho Universitário da Universidade do Amazonas tem por função deliberar sobre as questões acadêmicas, administrativas, financeiras e patrimoniais da Universidade.",
+        "start_position": 21611,
+        "end_position": 21775
+    },
+    {
+        "id": 97,
+        "pergunta": "Quem é o órgão responsável pela supervisão e coordenação das atividades de ensino, pesquisa e extensão na Universidade do Amazonas?",
+        "resposta": "O órgão responsável pela supervisão e coordenação das atividades de ensino, pesquisa e extensão na Universidade do Amazonas é o Conselho de Ensino, Pesquisa e Extensão (CONSEPE).",
+        "start_position": 21776,
+        "end_position": 21996
+    },
+    {
+        "id": 98,
+        "pergunta": "Qual é a função do Conselho de Administração da Universidade do Amazonas?",
+        "resposta": "O Conselho de Administração da Universidade do Amazonas tem por função deliberar sobre as questões administrativas, financeiras e patrimoniais da Universidade.",
+        "start_position": 21997,
+        "end_position": 22149
+    },
+    {
+        "id": 99,
+        "pergunta": "Quem é o órgão executivo máximo da Universidade do Amazonas?",
+        "resposta": "O órgão executivo máximo da Universidade do Amazonas é a Reitoria.",
+        "start_position": 22150,
+        "end_position": 22211
+    },
+    {
+        "id": 100,
+        "pergunta": "Quem é o responsável pela administração superior da Universidade do Amazonas?",
+        "resposta": "O responsável pela administração superior da Universidade do Amazonas é o Reitor, auxiliado pelos Conselhos Superiores e pelas Pró-Reitorias.",
+        "start_position": 22212,
+        "end_position": 22365
+    }
+]
